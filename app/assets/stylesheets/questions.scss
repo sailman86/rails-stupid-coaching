@@ -7,15 +7,4 @@ $red: red;
 
  body {
    background: $gray; // Using this variable
-   display: flex;
-   justify-content: center;
-   flex-direction: column;
  }
-
-.question {
-  color: $red;
-}
-
-h2 {
-  color: $blue;
-}
